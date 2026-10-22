@@ -34,5 +34,4 @@ jupyter notebook StreamBench_Self_StreamICL_M1.ipynb
 
 ## Notes
 
-- Model checkpoints and raw experiment data are not included in this repo (see `.gitignore`).
-- This repository is the course group project; the review follows a PRISMA-inspired reporting logic.
+- Model checkpoints and raw experiment data are not included in this repo (see `.gitignore`). 
