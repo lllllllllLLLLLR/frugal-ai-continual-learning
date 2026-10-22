@@ -1,6 +1,6 @@
 # Frugal AI — Continual Learning Benchmark Review & StreamBench Experiments
 
-M1 coursework project (Frugal AI course, Université Paris-Saclay): a **systematic review of continual-learning benchmarks for LLMs and language agents**, plus hands-on StreamBench (Self-StreamICL) experiments.
+M2 coursework project (Frugal AI course, Université Paris-Saclay): a **systematic review of continual-learning benchmarks for LLMs and language agents**, plus hands-on StreamBench (Self-StreamICL) experiments.
 
 ## Highlights
 
